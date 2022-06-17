@@ -1,0 +1,13 @@
+[
+  {
+    "package": "estudy2",
+    "oncran": true
+  },
+  {
+    "package": "openai"
+  },
+  {
+    "package": "ruin",
+    "oncran": true
+  }
+]
