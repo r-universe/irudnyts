@@ -1,9 +1,5 @@
 [
   {
-    "package": "estudy2",
-    "oncran": true
-  },
-  {
     "package": "openai"
   },
   {
