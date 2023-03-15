@@ -1,10 +1,10 @@
 [
   {
-    "package": "openai",
+    "package": "ruin",
     "oncran": true
   },
   {
-    "package": "ruin",
+    "package": "openai",
     "oncran": true
   }
 ]
